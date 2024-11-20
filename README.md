@@ -1,0 +1,2 @@
+# Face-Recognition-and-Attendance-System-Using-OpenCV-and-Machine-Learning-
+This project focuses on implementing a high-accuracy facial recognition system. The primary goal is to leverage this technology to create a live attendance system. The system will utilize a webcam for real-time face detection and identification. The identified individuals will have their attendance automatically logged into an Excel sheet.
